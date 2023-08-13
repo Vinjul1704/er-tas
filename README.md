@@ -31,4 +31,4 @@ All of that tends to not be 100% precise at times and the games performance fluc
 
 If you want to learn more about zips and ER speedrunning in general, join the SpeedSouls Discord server: http://discord.speedsouls.com/
 
-Feel free to message me directly via Discord as well if you have any questions: ViRazY#0594 (ID: 223504456476655618)
+Feel free to message me directly via Discord as well if you have any questions: virazy (ID: 223504456476655618)
