@@ -29,6 +29,6 @@ Due to the lack of proper TAS tools, I had to use xdotool to simulate mouse and 
 All of that tends to not be 100% precise at times and the games performance fluctuates a lot, which causes the different segments to fail frequently and often not work unless you use the exact save files they were calibrated with. In the end however, it got the job done, but don't expect the scripts to just work "as-is" on your machine.
 
 
-If you want to learn more about zips and ER speedrunning in general, join the SpeedSouls Discord server: http://discord.speedsouls.com/
+If you want to learn more about zips and ER speedrunning in general, join the SoulsSpeedruns Discord server: https://discord.gg/6v5Z63zEQv
 
 Feel free to message me directly via Discord as well if you have any questions: virazy (ID: 223504456476655618)
